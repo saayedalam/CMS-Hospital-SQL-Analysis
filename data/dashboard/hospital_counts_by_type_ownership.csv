@@ -1,0 +1,38 @@
+Hospital Type,Hospital Ownership,hospital_count
+Acute Care - Department of Defense,Department of Defense,32
+Acute Care - Veterans Administration,Veterans Health Administration,132
+Acute Care Hospitals,Government - Federal,25
+Acute Care Hospitals,Government - Hospital District or Authority,229
+Acute Care Hospitals,Government - Local,142
+Acute Care Hospitals,Government - State,50
+Acute Care Hospitals,Physician,69
+Acute Care Hospitals,Proprietary,658
+Acute Care Hospitals,Tribal,8
+Acute Care Hospitals,Voluntary non-profit - Church,213
+Acute Care Hospitals,Voluntary non-profit - Other,265
+Acute Care Hospitals,Voluntary non-profit - Private,1472
+Childrens,Government - Hospital District or Authority,1
+Childrens,Government - State,3
+Childrens,Proprietary,7
+Childrens,Voluntary non-profit - Church,1
+Childrens,Voluntary non-profit - Other,12
+Childrens,Voluntary non-profit - Private,70
+Critical Access Hospitals,Government - Federal,8
+Critical Access Hospitals,Government - Hospital District or Authority,280
+Critical Access Hospitals,Government - Local,235
+Critical Access Hospitals,Government - State,10
+Critical Access Hospitals,Physician,3
+Critical Access Hospitals,Proprietary,63
+Critical Access Hospitals,Tribal,7
+Critical Access Hospitals,Voluntary non-profit - Church,50
+Critical Access Hospitals,Voluntary non-profit - Other,68
+Critical Access Hospitals,Voluntary non-profit - Private,644
+Psychiatric,Government - Federal,9
+Psychiatric,Government - Hospital District or Authority,2
+Psychiatric,Government - Local,19
+Psychiatric,Government - State,145
+Psychiatric,Physician,2
+Psychiatric,Proprietary,332
+Psychiatric,Voluntary non-profit - Church,8
+Psychiatric,Voluntary non-profit - Other,16
+Psychiatric,Voluntary non-profit - Private,94

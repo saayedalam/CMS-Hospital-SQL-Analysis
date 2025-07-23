@@ -1,0 +1,258 @@
+State,Hospital Type,hospital_type_count
+AK,Acute Care - Department of Defense,2
+AK,Acute Care Hospitals,8
+AK,Critical Access Hospitals,13
+AK,Psychiatric,2
+AL,Acute Care - Veterans Administration,3
+AL,Acute Care Hospitals,80
+AL,Childrens,2
+AL,Critical Access Hospitals,6
+AL,Psychiatric,9
+AR,Acute Care - Veterans Administration,2
+AR,Acute Care Hospitals,44
+AR,Childrens,2
+AR,Critical Access Hospitals,27
+AR,Psychiatric,10
+AS,Acute Care Hospitals,1
+AZ,Acute Care - Veterans Administration,3
+AZ,Acute Care Hospitals,65
+AZ,Childrens,1
+AZ,Critical Access Hospitals,17
+AZ,Psychiatric,20
+CA,Acute Care - Department of Defense,5
+CA,Acute Care - Veterans Administration,8
+CA,Acute Care Hospitals,277
+CA,Childrens,10
+CA,Critical Access Hospitals,38
+CA,Psychiatric,41
+CO,Acute Care - Department of Defense,1
+CO,Acute Care - Veterans Administration,2
+CO,Acute Care Hospitals,51
+CO,Childrens,2
+CO,Critical Access Hospitals,32
+CO,Psychiatric,9
+CT,Acute Care - Veterans Administration,1
+CT,Acute Care Hospitals,27
+CT,Childrens,1
+CT,Psychiatric,8
+DC,Acute Care - Veterans Administration,1
+DC,Acute Care Hospitals,6
+DC,Childrens,1
+DC,Psychiatric,2
+DE,Acute Care - Veterans Administration,1
+DE,Acute Care Hospitals,6
+DE,Childrens,1
+DE,Psychiatric,5
+FL,Acute Care - Department of Defense,2
+FL,Acute Care - Veterans Administration,7
+FL,Acute Care Hospitals,167
+FL,Childrens,3
+FL,Critical Access Hospitals,12
+FL,Psychiatric,28
+GA,Acute Care - Department of Defense,3
+GA,Acute Care - Veterans Administration,3
+GA,Acute Care Hospitals,95
+GA,Childrens,2
+GA,Critical Access Hospitals,30
+GA,Psychiatric,13
+GU,Acute Care Hospitals,2
+HI,Acute Care - Department of Defense,1
+HI,Acute Care Hospitals,11
+HI,Childrens,2
+HI,Critical Access Hospitals,9
+HI,Psychiatric,1
+IA,Acute Care - Veterans Administration,2
+IA,Acute Care Hospitals,30
+IA,Critical Access Hospitals,83
+IA,Psychiatric,4
+ID,Acute Care - Veterans Administration,1
+ID,Acute Care Hospitals,16
+ID,Critical Access Hospitals,27
+ID,Psychiatric,4
+IL,Acute Care - Veterans Administration,5
+IL,Acute Care Hospitals,115
+IL,Childrens,3
+IL,Critical Access Hospitals,55
+IL,Psychiatric,17
+IN,Acute Care - Veterans Administration,2
+IN,Acute Care Hospitals,82
+IN,Critical Access Hospitals,33
+IN,Psychiatric,32
+KS,Acute Care - Department of Defense,1
+KS,Acute Care - Veterans Administration,2
+KS,Acute Care Hospitals,44
+KS,Childrens,1
+KS,Critical Access Hospitals,81
+KS,Psychiatric,6
+KY,Acute Care - Department of Defense,1
+KY,Acute Care - Veterans Administration,2
+KY,Acute Care Hospitals,60
+KY,Critical Access Hospitals,29
+KY,Psychiatric,10
+LA,Acute Care - Department of Defense,1
+LA,Acute Care - Veterans Administration,3
+LA,Acute Care Hospitals,82
+LA,Childrens,1
+LA,Critical Access Hospitals,27
+LA,Psychiatric,42
+MA,Acute Care - Veterans Administration,3
+MA,Acute Care Hospitals,55
+MA,Childrens,3
+MA,Critical Access Hospitals,4
+MA,Psychiatric,17
+MD,Acute Care - Department of Defense,1
+MD,Acute Care - Veterans Administration,2
+MD,Acute Care Hospitals,43
+MD,Childrens,2
+MD,Psychiatric,8
+ME,Acute Care - Veterans Administration,1
+ME,Acute Care Hospitals,15
+ME,Critical Access Hospitals,17
+ME,Psychiatric,4
+MI,Acute Care - Veterans Administration,4
+MI,Acute Care Hospitals,91
+MI,Childrens,1
+MI,Critical Access Hospitals,35
+MI,Psychiatric,15
+MN,Acute Care - Veterans Administration,2
+MN,Acute Care Hospitals,46
+MN,Childrens,2
+MN,Critical Access Hospitals,76
+MN,Psychiatric,9
+MO,Acute Care - Department of Defense,1
+MO,Acute Care - Veterans Administration,4
+MO,Acute Care Hospitals,65
+MO,Childrens,4
+MO,Critical Access Hospitals,34
+MO,Psychiatric,14
+MP,Acute Care Hospitals,1
+MS,Acute Care - Department of Defense,1
+MS,Acute Care - Veterans Administration,2
+MS,Acute Care Hospitals,58
+MS,Critical Access Hospitals,30
+MS,Psychiatric,8
+MT,Acute Care - Veterans Administration,1
+MT,Acute Care Hospitals,11
+MT,Critical Access Hospitals,50
+MT,Psychiatric,1
+NC,Acute Care - Department of Defense,2
+NC,Acute Care - Veterans Administration,4
+NC,Acute Care Hospitals,82
+NC,Critical Access Hospitals,20
+NC,Psychiatric,15
+ND,Acute Care - Veterans Administration,1
+ND,Acute Care Hospitals,7
+ND,Critical Access Hospitals,37
+ND,Psychiatric,2
+NE,Acute Care - Veterans Administration,1
+NE,Acute Care Hospitals,25
+NE,Childrens,2
+NE,Critical Access Hospitals,62
+NE,Psychiatric,2
+NH,Acute Care Hospitals,13
+NH,Critical Access Hospitals,13
+NH,Psychiatric,2
+NJ,Acute Care - Veterans Administration,1
+NJ,Acute Care Hospitals,61
+NJ,Childrens,2
+NJ,Psychiatric,14
+NM,Acute Care - Veterans Administration,1
+NM,Acute Care Hospitals,26
+NM,Critical Access Hospitals,13
+NM,Psychiatric,4
+NV,Acute Care - Department of Defense,1
+NV,Acute Care - Veterans Administration,2
+NV,Acute Care Hospitals,22
+NV,Critical Access Hospitals,13
+NV,Psychiatric,7
+NY,Acute Care - Department of Defense,1
+NY,Acute Care - Veterans Administration,9
+NY,Acute Care Hospitals,130
+NY,Childrens,1
+NY,Critical Access Hospitals,21
+NY,Psychiatric,28
+OH,Acute Care - Department of Defense,1
+OH,Acute Care - Veterans Administration,4
+OH,Acute Care Hospitals,117
+OH,Childrens,8
+OH,Critical Access Hospitals,32
+OH,Psychiatric,32
+OK,Acute Care - Veterans Administration,2
+OK,Acute Care Hospitals,75
+OK,Childrens,2
+OK,Critical Access Hospitals,39
+OK,Psychiatric,11
+OR,Acute Care - Veterans Administration,2
+OR,Acute Care Hospitals,32
+OR,Childrens,1
+OR,Critical Access Hospitals,25
+OR,Psychiatric,2
+PA,Acute Care - Veterans Administration,7
+PA,Acute Care Hospitals,134
+PA,Childrens,5
+PA,Critical Access Hospitals,16
+PA,Psychiatric,26
+PR,Acute Care - Veterans Administration,1
+PR,Acute Care Hospitals,54
+PR,Childrens,1
+PR,Psychiatric,4
+RI,Acute Care - Veterans Administration,1
+RI,Acute Care Hospitals,10
+RI,Psychiatric,2
+SC,Acute Care - Department of Defense,1
+SC,Acute Care - Veterans Administration,2
+SC,Acute Care Hospitals,51
+SC,Childrens,1
+SC,Critical Access Hospitals,3
+SC,Psychiatric,8
+SD,Acute Care - Veterans Administration,2
+SD,Acute Care Hospitals,18
+SD,Childrens,1
+SD,Critical Access Hospitals,40
+SD,Psychiatric,1
+TN,Acute Care - Veterans Administration,4
+TN,Acute Care Hospitals,80
+TN,Childrens,2
+TN,Critical Access Hospitals,15
+TN,Psychiatric,21
+TX,Acute Care - Department of Defense,3
+TX,Acute Care - Veterans Administration,5
+TX,Acute Care Hospitals,282
+TX,Childrens,16
+TX,Critical Access Hospitals,91
+TX,Psychiatric,62
+UT,Acute Care - Veterans Administration,1
+UT,Acute Care Hospitals,32
+UT,Childrens,1
+UT,Critical Access Hospitals,13
+UT,Psychiatric,5
+VA,Acute Care - Department of Defense,2
+VA,Acute Care - Veterans Administration,3
+VA,Acute Care Hospitals,71
+VA,Childrens,2
+VA,Critical Access Hospitals,8
+VA,Psychiatric,9
+VI,Acute Care Hospitals,2
+VT,Acute Care - Veterans Administration,1
+VT,Acute Care Hospitals,6
+VT,Critical Access Hospitals,8
+VT,Psychiatric,2
+WA,Acute Care - Department of Defense,1
+WA,Acute Care - Veterans Administration,2
+WA,Acute Care Hospitals,46
+WA,Childrens,3
+WA,Critical Access Hospitals,39
+WA,Psychiatric,9
+WI,Acute Care - Veterans Administration,3
+WI,Acute Care Hospitals,65
+WI,Childrens,2
+WI,Critical Access Hospitals,58
+WI,Psychiatric,14
+WV,Acute Care - Veterans Administration,4
+WV,Acute Care Hospitals,25
+WV,Critical Access Hospitals,21
+WV,Psychiatric,5
+WY,Acute Care - Veterans Administration,2
+WY,Acute Care Hospitals,11
+WY,Critical Access Hospitals,16
+WY,Psychiatric,1
