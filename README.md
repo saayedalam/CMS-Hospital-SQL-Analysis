@@ -1,4 +1,7 @@
-<img src="https://github.com/saayedalam/CMS-Hospital-SQL-Analysis/blob/main/images/image.png" width="60" align="left" alt="CMS Logo" />
+
+<p align="center">
+  <img src="https://github.com/saayedalam/CMS-Hospital-SQL-Analysis/blob/main/images/image.png" width="160" alt="CMS Hospital Logo">
+</p>
 
 # 🏥 Medicare-Registered Hospital Analysis (SQL + Tableau)
 
@@ -98,11 +101,6 @@ project-root/
 └── requirements.txt    # (Optional, for Python environment)
 ```
 
----
-
-## 🔗 GitHub Integration
-
-Click the GitHub icon on the intro page of the Tableau dashboard to return to this repository and explore the full project pipeline.
 
 ---
 
