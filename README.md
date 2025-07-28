@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/saayedalam/CMS-Hospital-SQL-Analysis/blob/main/images/image.png" width="160" alt="CMS Hospital Logo">
-</p>
+<img src="https://github.com/saayedalam/CMS-Hospital-SQL-Analysis/blob/main/images/image.png" width="60" align="left" alt="CMS Logo" />
 
 # 🏥 Medicare-Registered Hospital Analysis (SQL + Tableau)
 
