@@ -44,6 +44,9 @@ Using PostgreSQL, the dataset was explored and aggregated to prepare it for visu
 - Grouped quality ratings by geography
 - State-level deviation from the national average
 
+📘 **Explore the full SQL notebook with 28 interview-ready queries and explanations:**  
+🔗 [View the SQL Analysis Notebook](https://nbviewer.org/github/saayedalam/CMS-Hospital-SQL-Analysis/blob/cac15c757c06c62a16c2d769a65e05b3765a21d1/notebooks/02_sql_analysis.ipynb#%F0%9F%A7%AE-Query-1:-Hospital-Count-by-State)
+
 ---
 
 ## 📊 Interactive Tableau Dashboards
@@ -100,7 +103,6 @@ project-root/
 ├── README.md           # This file
 └── requirements.txt    # (Optional, for Python environment)
 ```
-
 
 ---
 
