@@ -52,7 +52,7 @@ Using PostgreSQL, the dataset was explored and aggregated to prepare it for visu
 ## 📊 Interactive Tableau Dashboards
 
 🔗 **View the full dashboard story on Tableau Public:**  
-[📘 CMS Hospital Dashboard Story](https://public.tableau.com/app/profile/saayed.alam/viz/CMSHospitalDataDashboardSQLAnalysisVisualization/Story1?publish=yes)
+[📘 CMS Hospital Dashboard Story](https://nbviewer.org/github/saayedalam/CMS-Hospital-SQL-Analysis/blob/cac15c757c06c62a16c2d769a65e05b3765a21d1/notebooks/02_sql_analysis.ipynb)
 
 ### 🔹 Dashboard Breakdown
 
