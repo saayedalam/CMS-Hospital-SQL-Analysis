@@ -45,14 +45,14 @@ Using PostgreSQL, the dataset was explored and aggregated to prepare it for visu
 - State-level deviation from the national average
 
 📘 **Explore the full SQL notebook with 28 interview-ready queries and explanations:**  
-🔗 [View the SQL Analysis Notebook](https://nbviewer.org/github/saayedalam/CMS-Hospital-SQL-Analysis/blob/cac15c757c06c62a16c2d769a65e05b3765a21d1/notebooks/02_sql_analysis.ipynb#%F0%9F%A7%AE-Query-1:-Hospital-Count-by-State)
+🔗 [View the SQL Analysis Notebook](https://nbviewer.org/github/saayedalam/CMS-Hospital-SQL-Analysis/blob/cac15c757c06c62a16c2d769a65e05b3765a21d1/notebooks/02_sql_analysis.ipynb)
 
 ---
 
 ## 📊 Interactive Tableau Dashboards
 
 🔗 **View the full dashboard story on Tableau Public:**  
-[📘 CMS Hospital Dashboard Story](https://nbviewer.org/github/saayedalam/CMS-Hospital-SQL-Analysis/blob/cac15c757c06c62a16c2d769a65e05b3765a21d1/notebooks/02_sql_analysis.ipynb)
+[📘 CMS Hospital Dashboard Story](https://public.tableau.com/app/profile/saayed.alam/viz/CMSHospitalDataDashboardSQLAnalysisVisualization/Story1?publish=yes)
 
 ### 🔹 Dashboard Breakdown
 
